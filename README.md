@@ -10,5 +10,5 @@ environments.yml: my tensorflow environment for this Repository
 model.py: original and modified LeNet models
 func.py: functions used in train.py and eval.py
 
-## Best Results in fifty epochs
+## Best results in fifty epochs
 training accuracy = 0.997, validation accuracy = 0.991, testing accuracy = 0.991
