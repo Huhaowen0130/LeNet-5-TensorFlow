@@ -2,8 +2,8 @@
 Implement LeNet-5 with TensorFlow, trained and evaluated with MNIST. (MNIST data included in Repository)
 
 ## Platform
-CPU: i7-8700
-GPU: GTX-1660
+CPU: i7-8700  
+GPU: GTX-1660  
 System: Windows 10  
 Application: Spyder 3.3.6
 
